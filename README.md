@@ -1,0 +1,1 @@
+### Web Testing Example with Capybara
