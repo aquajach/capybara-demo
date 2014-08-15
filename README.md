@@ -13,7 +13,9 @@ Ruby Version 2.0.0 or later is recommended
 
 ### Clone this repository
 In your projects folder:
+```
     git clone https://github.com/sstephenson/rbenv
+```
 
 ### Install Required Gems
     gem install bundler
