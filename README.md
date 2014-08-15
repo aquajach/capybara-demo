@@ -4,6 +4,8 @@ Capybara is used a tool for acceptance/integration test for web applications. It
 
 This demo basically shows how to set up the testing environment and start some simple testing
 
+The presentable slides can be downloaded from: http://prezi.com/rimgr1wgnwon/capybara/?utm_campaign=share&utm_medium=copy
+
 ## Get Started
 
 ### Install Ruby
