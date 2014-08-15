@@ -26,8 +26,9 @@ In your projects folder:
 ```
 ## Usage
 In the capybara-demo folder, run:
+```
     rspec demo_spec.rb
-
+```
 If you are blocked from any steps above, please log an issue at: https://github.com/aquajach/capybara-demo/issues
 
 
