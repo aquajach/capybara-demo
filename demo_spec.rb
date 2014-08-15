@@ -20,5 +20,7 @@ describe 'Test local app', type: :feature  do
     expect(page).to have_content 'Sign In'
     click_link 'Sign In'
     expect(page).to have_link 'Forgot your password?'
+
+    #More helpers functions are: https://gist.github.com/zhengjia/428105
   end
 end
