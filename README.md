@@ -18,9 +18,10 @@ In your projects folder:
 ```
 
 ### Install Required Gems
+```
     gem install bundler
     bundle install
-
+```
 ## Usage
 In the capybara-demo folder, run:
     rspec demo_spec.rb
